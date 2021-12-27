@@ -9,3 +9,7 @@ Real-time face detection with Tensorflow JS
 `yarn install`
 ## Run 
 `yarn start`
+
+
+
+Tutorial: https://www.youtube.com/watch?v=7lXYGDVHUNw
